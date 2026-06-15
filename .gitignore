@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Marketing assets — kept out of the public docs repo
+marketing/
